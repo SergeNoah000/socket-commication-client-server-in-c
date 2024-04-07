@@ -1,0 +1,9 @@
+/sockets_threads/
+*.log
+.vscode
+runner
+server
+client
+server_full
+infinite_client
+*.zip
